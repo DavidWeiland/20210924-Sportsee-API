@@ -87,9 +87,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"P9-front-end-dashboard@workspace:.":
+"p9-front-end-dashboard@workspace:.":
   version: 0.0.0-use.local
-  resolution: "P9-front-end-dashboard@workspace:."
+  resolution: "p9-front-end-dashboard@workspace:."
   dependencies:
     cors: ^2.8.5
     express: ^4.17.1
